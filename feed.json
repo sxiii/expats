@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://expats.top/partners/",
+            "url": "https://expats.top/partners/",
+            "title": "Partners",
+            "summary": "ITMeet.top - International Tech Meetups community Web3F.top - Web3, Crypto and Blockchain Events",
+            "content_html": "\n  <p>\n    <a href=\"https://itmeet.top\" target=\"_blank\">ITMeet.top</a> - International Tech Meetups community<br><a href=\"https://web3f.top\" target=\"_blank\">Web3F.top</a> - Web3, Crypto and Blockchain Events\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T12:19:52+01:00",
+            "date_modified": "2024-02-01T12:20:54+01:00"
+        },
+        {
             "id": "https://expats.top/history/",
             "url": "https://expats.top/history/",
             "title": "History",
@@ -35,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2024-02-01T10:46:29+01:00",
-            "date_modified": "2024-02-01T12:16:08+01:00"
+            "date_modified": "2024-02-01T12:20:00+01:00"
         },
         {
             "id": "https://expats.top/expats-community/",

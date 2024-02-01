@@ -3,12 +3,39 @@
     <title>Expats.top</title>
     <link href="https://expats.top/feed.xml" rel="self" />
     <link href="https://expats.top" />
-    <updated>2024-02-01T12:16:08+01:00</updated>
+    <updated>2024-02-01T12:20:54+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
     <id>https://expats.top</id>
 
+    <entry>
+        <title>Partners</title>
+        <author>
+            <name>sxiii</name>
+        </author>
+        <link href="https://expats.top/partners/"/>
+        <id>https://expats.top/partners/</id>
+
+        <updated>2024-02-01T12:20:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ITMeet.top - International Tech Meetups community Web3F.top - Web3, Crypto and Blockchain Events
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <a href="https://itmeet.top" target="_blank">ITMeet.top</a> - International Tech Meetups community<br><a href="https://web3f.top" target="_blank">Web3F.top</a> - Web3, Crypto and Blockchain Events
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>History</title>
         <author>
@@ -76,7 +103,7 @@
         <link href="https://expats.top/events/"/>
         <id>https://expats.top/events/</id>
 
-        <updated>2024-02-01T12:16:08+01:00</updated>
+        <updated>2024-02-01T12:20:00+01:00</updated>
             <summary>
                 <![CDATA[
                     Right now we are hosting the following events from the Expats community: Our partners are also hosting awesome events, please check them out: We are open for collaboration to host more different awesome events all across Oslo as well as online and globally, too.
