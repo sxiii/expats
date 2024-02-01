@@ -3,7 +3,7 @@
     <title>Expats.top</title>
     <link href="https://expats.top/feed.xml" rel="self" />
     <link href="https://expats.top" />
-    <updated>2024-02-01T11:51:15+01:00</updated>
+    <updated>2024-02-01T12:16:08+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -76,7 +76,7 @@
         <link href="https://expats.top/events/"/>
         <id>https://expats.top/events/</id>
 
-        <updated>2024-02-01T10:46:39+01:00</updated>
+        <updated>2024-02-01T12:16:08+01:00</updated>
             <summary>
                 <![CDATA[
                     Right now we are hosting the following events from the Expats community: Our partners are also hosting awesome events, please check them out: We are open for collaboration to host more different awesome events all across Oslo as well as online and globally, too.
@@ -90,11 +90,11 @@
   </p>
 
   <ul>
-    <li><b>Board Games Thursdays</b> - event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are usually hosted in English and you don't need to know any of the board games to come and play with us. You can also bring your own favourite board games if you know any! Read more about history of the event.</li>
+    <li><b>Board Games Thursdays</b>&nbsp;event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are hosted in English and you don't need to know any of the board games to come and play with us (we're happy to teach you!). You can also bring your own favourite board games if you know any! Read more about history of the event.</li><li><b>Boardgame Night and Hangout </b>at Toyen Library</li>
   </ul>
 
   <p>
-    Our partners are also hosting awesome events, please check them out:
+    <b>Our partners</b> are also hosting awesome events, please check them out:
   </p>
 
   <ul>
@@ -115,7 +115,7 @@
         <link href="https://expats.top/expats-community/"/>
         <id>https://expats.top/expats-community/</id>
 
-        <updated>2024-02-01T10:46:46+01:00</updated>
+        <updated>2024-02-01T12:14:01+01:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to our humble Expats community. With headquarters in Oslo - one of the world's best IT hub hosting a large set of diversified startups, we provide a myriad of different events in the city as well as provide online experience for all of you!&hellip;
@@ -125,7 +125,7 @@
             <![CDATA[
                 <p>Welcome to our humble Expats community.</p>
 <p>With headquarters in Oslo - one of the world's best IT hub hosting a large set of diversified startups, we provide a myriad of different events in the city as well as provide online experience for all of you!</p>
-<p>Qute obviously this website is a work-in-progress during February 2024, but please join along in our journey!</p>
+<p>This website is a work-in-progress during February 2024, but please join along in our journey!</p>
             ]]>
         </content>
     </entry>

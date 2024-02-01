@@ -28,28 +28,28 @@
             "url": "https://expats.top/events/",
             "title": "Events by Expats in Oslo",
             "summary": "Right now we are hosting the following events from the Expats community: Our partners are also hosting awesome events, please check them out: We are open for collaboration to host more different awesome events all across Oslo as well as online and globally, too.",
-            "content_html": "\n  <p>\n    Right now we are hosting the following events from the Expats community:\n  </p>\n\n  <ul>\n    <li><b>Board Games Thursdays</b> - event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are usually hosted in English and you don't need to know any of the board games to come and play with us. You can also bring your own favourite board games if you know any! Read more about history of the event.</li>\n  </ul>\n\n  <p>\n    Our partners are also hosting awesome events, please check them out:\n  </p>\n\n  <ul>\n    <li><a href=\"https://itmeet.top\" target=\"_blank\">ITMeet.top</a> - International Tech Meetups community (already started)</li><li><a href=\"https://web3f.top\" target=\"_blank\">Web3F.top</a> - Web3, Crypto and Blockchain Events (upcoming in March)</li>\n  </ul>\n\n  <p>\n    We are open for collaboration to host more different awesome events all across Oslo as well as online and globally, too.\n  </p>",
+            "content_html": "\n  <p>\n    Right now we are hosting the following events from the Expats community:\n  </p>\n\n  <ul>\n    <li><b>Board Games Thursdays</b>&nbsp;event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are hosted in English and you don't need to know any of the board games to come and play with us (we're happy to teach you!). You can also bring your own favourite board games if you know any! Read more about history of the event.</li><li><b>Boardgame Night and Hangout </b>at Toyen Library</li>\n  </ul>\n\n  <p>\n    <b>Our partners</b> are also hosting awesome events, please check them out:\n  </p>\n\n  <ul>\n    <li><a href=\"https://itmeet.top\" target=\"_blank\">ITMeet.top</a> - International Tech Meetups community (already started)</li><li><a href=\"https://web3f.top\" target=\"_blank\">Web3F.top</a> - Web3, Crypto and Blockchain Events (upcoming in March)</li>\n  </ul>\n\n  <p>\n    We are open for collaboration to host more different awesome events all across Oslo as well as online and globally, too.\n  </p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:46:29+01:00",
-            "date_modified": "2024-02-01T10:46:39+01:00"
+            "date_modified": "2024-02-01T12:16:08+01:00"
         },
         {
             "id": "https://expats.top/expats-community/",
             "url": "https://expats.top/expats-community/",
             "title": "Expats Community",
             "summary": "Welcome to our humble Expats community. With headquarters in Oslo - one of the world's best IT hub hosting a large set of diversified startups, we provide a myriad of different events in the city as well as provide online experience for all of you!&hellip;",
-            "content_html": "<p>Welcome to our humble Expats community.</p>\n<p>With headquarters in Oslo - one of the world's best IT hub hosting a large set of diversified startups, we provide a myriad of different events in the city as well as provide online experience for all of you!</p>\n<p>Qute obviously this website is a work-in-progress during February 2024, but please join along in our journey!</p>",
+            "content_html": "<p>Welcome to our humble Expats community.</p>\n<p>With headquarters in Oslo - one of the world's best IT hub hosting a large set of diversified startups, we provide a myriad of different events in the city as well as provide online experience for all of you!</p>\n<p>This website is a work-in-progress during February 2024, but please join along in our journey!</p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T10:39:51+01:00",
-            "date_modified": "2024-02-01T10:46:46+01:00"
+            "date_modified": "2024-02-01T12:14:01+01:00"
         }
     ]
 }
