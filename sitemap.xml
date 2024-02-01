@@ -5,8 +5,16 @@
 <loc>https://expats.top/</loc>
 </url>
 <url>
+<loc>https://expats.top/author-info-and-contact/</loc>
+<lastmod>2024-02-01T13:52:35+01:00</lastmod>
+<image:image>
+<image:loc>https://expats.top/media/posts/9/PXL_20230323_195601525.jpg</image:loc>
+<image:title><![CDATA[Den Ivanov]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://expats.top/donations/</loc>
-<lastmod>2024-02-01T13:26:29+01:00</lastmod>
+<lastmod>2024-02-01T13:42:13+01:00</lastmod>
 </url>
 <url>
 <loc>https://expats.top/events/</loc>
@@ -27,6 +35,9 @@
 <url>
 <loc>https://expats.top/links/</loc>
 <lastmod>2024-02-01T12:56:18+01:00</lastmod>
+</url>
+<url>
+<loc>https://expats.top/page/2/</loc>
 </url>
 <url>
 <loc>https://expats.top/partners/</loc>

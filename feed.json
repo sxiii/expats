@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://expats.top/author-info-and-contact/",
+            "url": "https://expats.top/author-info-and-contact/",
+            "title": "Author info &amp; contact",
+            "summary": "Hi, if you're not familiar with me my name is Den Ivanov. I am a board game geek, computer nerd,&hellip;",
+            "content_html": "<p>Hi, if you're not familiar with me my name is <strong>Den Ivanov</strong>.</p>\n<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://expats.top/media/posts/9/PXL_20230323_195601525.jpg\" alt=\"Den Ivanov\" width=\"640\" height=\"482\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://expats.top/media/posts/9/responsive/PXL_20230323_195601525-xs.webp 384w ,https://expats.top/media/posts/9/responsive/PXL_20230323_195601525-sm.webp 600w ,https://expats.top/media/posts/9/responsive/PXL_20230323_195601525-md.webp 768w ,https://expats.top/media/posts/9/responsive/PXL_20230323_195601525-lg.webp 1200w ,https://expats.top/media/posts/9/responsive/PXL_20230323_195601525-xl.webp 1600w\"></figure>\n<p>I am a board game geek, computer nerd, AI fan, System Engineer, blockchain developer, cryptoblogger, DIY guy, event organiser, and much more.</p>\n<p>I moved to Norway in 2018, after some serious research and consideration. You can read an article about that in English in my <a href=\"https://steemit.com/utopian-io/@sxiii/moving-to-norway\" target=\"_blank\" rel=\"noopener noreferrer\">cryptoblog</a>.</p>\n<p>I've developed the \"Art of Conspiracy\" board game, as long as many software and some hardware projects.</p>\n<p>If you'd like to talk, feel free to add me:</p>\n<ul>\n<li>almost everywhere: <strong>sxiii</strong> or <strong>securityxiii </strong>or <strong>@sxiii</strong></li>\n<li>telegram: <a href=\"https://t.me/fakesnowden\" target=\"_blank\" rel=\"noopener noreferrer\">@fakesnowden</a></li>\n<li>linkedin: <a href=\"https://linkedin.com/in/sxiii\" target=\"_blank\" rel=\"noopener noreferrer\">https://linkedin.com/in/sxiii</a></li>\n<li>facebook: <a href=\"https://fb.me/sxiii\" target=\"_blank\" rel=\"noopener noreferrer\">https://fb.me/sxiii</a></li>\n</ul>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T13:52:35+01:00",
+            "date_modified": "2024-02-01T13:52:35+01:00"
+        },
+        {
             "id": "https://expats.top/donations/",
             "url": "https://expats.top/donations/",
             "title": "Donate",
             "summary": "If you would like to support our work financially, here's how you can do that: Vipps: 98770410 or https://qr.vipps.no/28/2/01/031/4798770410?v=1 SBanken:&hellip;",
-            "content_html": "<p>If you would like to support our work financially, here's how you can do that:</p>\n<p>Vipps: 98770410 or <a href=\"https://qr.vipps.no/28/2/01/031/4798770410?v=1\" target=\"_blank\" rel=\"noopener noreferrer\">https://qr.vipps.no/28/2/01/031/4798770410?v=1</a><br>SBanken: 98023234092<br>Revolut: <a href=\"https://revolut.me/sxiii\" target=\"_blank\" rel=\"noopener noreferrer\">https://revolut.me/sxiii</a><br>Crypto donate coming soon!</p>\n<p>If you would like to support what we're doing, there's many things you can do besides sending money:</p>\n<ul>\n<li>Coming to our events and just joining the activities!</li>\n<li>Bringing your favourite games along and teaching people how to play them</li>\n<li>Bringing food to share with the community</li>\n<li>Helping us to host the events</li>\n<li>Spreading the word about us in any ways (private talks, social networks, all the ways you can think of)</li>\n</ul>",
+            "content_html": "<p>If you would like to support our work financially, here's how you can do that:</p>\n<p>Vipps: 98770410 or <a href=\"https://qr.vipps.no/28/2/01/031/4798770410?v=1\" target=\"_blank\" rel=\"noopener noreferrer\">https://qr.vipps.no/28/2/01/031/4798770410?v=1</a><br>SBanken: 98023234092<br>Revolut: <a href=\"https://revolut.me/sxiii\" target=\"_blank\" rel=\"noopener noreferrer\">https://revolut.me/sxiii</a><br>Crypto donations are coming soon!</p>\n<p>If you donate money towards the board game event, please mark the transfer as \"board game donation\". If you can't do that, try to send money ending up with amount \"1337\" (example: 133.7 nok). This will allow us to buy more board games for the community.</p>\n<p>If you would like to support what we're doing, there's many things you can do besides sending money:</p>\n<ul>\n<li>Coming to our events and just joining the activities!</li>\n<li>Bringing your favourite games along and teaching people how to play them</li>\n<li>Bringing food to share with the community</li>\n<li>Helping us to host the events</li>\n<li>Spreading the word about us in any ways (private talks, social networks, all the ways you can think of)</li>\n</ul>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-02-01T13:23:16+01:00",
-            "date_modified": "2024-02-01T13:26:29+01:00"
+            "date_modified": "2024-02-01T13:42:13+01:00"
         },
         {
             "id": "https://expats.top/gallery-2/",
