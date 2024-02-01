@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://expats.top/gallery-2/",
+            "url": "https://expats.top/gallery-2/",
+            "title": "Gallery",
+            "summary": "Thursday Board Games - 2024 Thursday Board Games - 2023 Thursday Board Games - 2022 Thursday Board Games - 2021",
+            "content_html": "<p><strong>Thursday Board Games - 2024</strong></p>\n<p><strong>Thursday Board Games - 2023</strong></p>\n<p><strong>Thursday Board Games - 2022</strong></p>\n<p><strong>Thursday Board Games - 2021</strong></p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T13:10:41+01:00",
+            "date_modified": "2024-02-01T13:10:59+01:00"
+        },
+        {
+            "id": "https://expats.top/tbg/",
+            "url": "https://expats.top/tbg/",
+            "title": "Thursday Board Games",
+            "summary": "Location: House of Nerds (Vulkan, 18) Date: every Thursday&nbsp; Start Time: 17:30 Roll into the excitement every Thursday at our&hellip;",
+            "content_html": "\n  <p>\n    <b>Location: </b>House of Nerds (Vulkan, 18)<br><b>Date: </b>every Thursday&nbsp;<br><b>Start Time: </b>17:30<br>\n  </p>\n\n  <p>\n    Roll into the excitement every Thursday at our Weekly Board Game Night! Join fellow enthusiasts for a recurring evening of strategic gameplay, friendly competition, and a welcoming community of gamers. Whether you're a seasoned player or a novice, our Thursday nights are dedicated to laughter, camaraderie, and discovering new board game favorites. Bring your competitive spirit and join us as we make each Thursday memorable with a fresh array of tabletop adventures.&nbsp;Feel free to bring your own board games, adding a personal touch to our game night. And don't worry if you're running a bit late – we'll have a seat waiting for you.<br><br>NB: This is a free event and everyone's welcomed.<br><br>Now you can donate to our event (if you want), so we could buy more games for everyone's enjoyment faster! :)<br><br>~ ~ ~ Food &amp; Drinks ~ ~ ~<br>Drinks will be available on site for purchase. Food is available in Mathallen. You are allowed to bring your food to HoN facility.<br><br>~ ~ ~ Being late and getting help ~ ~ ~<br>If you can't come at the beginning of the event, that's totally OK. You can basically come any time you like (during event hours). We will try to arrange a play group for you at all times. If you need help with finding a game or spot, ask me (Den).<br><br>~ ~ ~ Donations ~ ~ ~<br>If possible, please, either add message \"Board games donation\", or if the payment provider you're using does not support that function or you don't want to use it, please donate any amount that ends with 1337, for example, 113.37 NOK.<br><br>    Vipps 98770410 or https://qr.vipps.no/28/2/01/031/4798770410?v=1<br>    SBanken 98023234092<br>    https://revolut.me/sxiii<br>    Crypto donate coming soon!<br>\n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T13:08:38+01:00",
+            "date_modified": "2024-02-01T13:14:06+01:00"
+        },
+        {
             "id": "https://expats.top/links/",
             "url": "https://expats.top/links/",
             "title": "Links",
@@ -54,7 +82,7 @@
         {
             "id": "https://expats.top/events/",
             "url": "https://expats.top/events/",
-            "title": "Events by Expats in Oslo",
+            "title": "Events",
             "summary": "Right now we are hosting the following events from the Expats community: To mark the RSVP (Participation) and see all&hellip;",
             "content_html": "\n  <p>\n    Right now we are hosting the following events from the Expats community:\n  </p>\n\n  <ul>\n    <li><b>Board Games Thursdays</b>&nbsp;event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are hosted in English and you don't need to know any of the board games to come and play with us (we're happy to teach you!). You can also bring your own favourite board games if you know any! Read more about history of the event.</li><li><b>Boardgame Night and Hangout </b>at Toyen Library happens on Friday evenings (18:00 and onwards).</li>\n  </ul>\n\n  <p>\n    To mark the RSVP (Participation) and see all of the available events, visit the link: <a href=\"https://www.meetup.com/expats-in-oslo/events/\" target=\"_blank\">https://www.meetup.com/expats-in-oslo/events/</a>\n  </p>\n\n  <p>\n    <b>Our partners</b> are also hosting awesome events, please check them out:\n  </p>\n\n  <ul>\n    <li><a href=\"https://itmeet.top\" target=\"_blank\">ITMeet.top</a> - International Tech Meetups community (already started)</li><li><a href=\"https://web3f.top\" target=\"_blank\">Web3F.top</a> - Web3, Crypto and Blockchain Events (upcoming in March)</li>\n  </ul>\n\n  <p>\n    We are open for collaboration to host more different awesome events all across Oslo as well as online and globally, too.\n  </p>",
             "author": {
@@ -63,7 +91,7 @@
             "tags": [
             ],
             "date_published": "2024-02-01T10:46:29+01:00",
-            "date_modified": "2024-02-01T12:49:11+01:00"
+            "date_modified": "2024-02-01T13:08:28+01:00"
         },
         {
             "id": "https://expats.top/expats-community/",
