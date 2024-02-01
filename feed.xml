@@ -3,12 +3,47 @@
     <title>Expats.top</title>
     <link href="https://expats.top/feed.xml" rel="self" />
     <link href="https://expats.top" />
-    <updated>2024-02-01T12:24:09+01:00</updated>
+    <updated>2024-02-01T12:56:18+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
     <id>https://expats.top</id>
 
+    <entry>
+        <title>Links</title>
+        <author>
+            <name>sxiii</name>
+        </author>
+        <link href="https://expats.top/links/"/>
+        <id>https://expats.top/links/</id>
+
+        <updated>2024-02-01T12:56:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Useful links for Expats
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <em>Useful links for Expats</em>
+  </p>
+
+  <ul>
+    <li>Main <a href="https://www.meetup.com/expats-in-oslo/" target="_blank">Expats meetup community</a></li><li>Used &amp; new things market; rent &amp; sell houses and apartments, boats, cars, find job and more: <a href="https://finn.no" target="_blank">finn.no</a></li><li>Rent house or apartment: <a href="https://hybel.no" target="_blank">hybel.no</a></li><li>Work in Norway:&nbsp;<a href="https://nav.no" target="_blank">nav.no</a></li><li>The Norwegian Directorate of Immigration: <a href="https://udi.no" target="_blank">udi.no</a></li><li>Service Center for Foreign Workers: <a href="https://www.sua.no/en/" target="_blank">sua.no</a></li><li>Telegram group for people who would like to move to Norway or Scandinavia (mostly Russian-speaking community): <a href="https://t.me/@waytonorway" target="_blank">@waytonorway</a><br></li>
+  </ul>
+
+  <p>
+    <br>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Partners</title>
         <author>
@@ -44,7 +79,7 @@
         <link href="https://expats.top/history/"/>
         <id>https://expats.top/history/</id>
 
-        <updated>2024-02-01T11:51:15+01:00</updated>
+        <updated>2024-02-01T12:48:05+01:00</updated>
             <summary>
                 <![CDATA[
                     Expats in Oslo originally started as Meetup community around beginning of November 2010. First activity had been hosted as long&hellip;
@@ -86,7 +121,7 @@
   </p>
 
   <p>
-    See you around,
+    See you <a href="https://www.meetup.com/expats-in-oslo/events/" target="_blank">around</a>,
   </p>
 
   <p>
@@ -103,10 +138,10 @@
         <link href="https://expats.top/events/"/>
         <id>https://expats.top/events/</id>
 
-        <updated>2024-02-01T12:24:05+01:00</updated>
+        <updated>2024-02-01T12:49:11+01:00</updated>
             <summary>
                 <![CDATA[
-                    Right now we are hosting the following events from the Expats community: Our partners are also hosting awesome events, please&hellip;
+                    Right now we are hosting the following events from the Expats community: To mark the RSVP (Participation) and see all&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -117,8 +152,12 @@
   </p>
 
   <ul>
-    <li><b>Board Games Thursdays</b>&nbsp;event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are hosted in English and you don't need to know any of the board games to come and play with us (we're happy to teach you!). You can also bring your own favourite board games if you know any! Read more about history of the event.</li><li><b>Boardgame Night and Hangout </b>at Toyen Library</li>
+    <li><b>Board Games Thursdays</b>&nbsp;event is hosted at awesome House of Nerds facility (Vulkan, 18) across the street from Mathallen and not very far from iconic Oslo Grunerløkka area. It's happening Thursday evening, @ 17:30, every week. The games are hosted in English and you don't need to know any of the board games to come and play with us (we're happy to teach you!). You can also bring your own favourite board games if you know any! Read more about history of the event.</li><li><b>Boardgame Night and Hangout </b>at Toyen Library happens on Friday evenings (18:00 and onwards).</li>
   </ul>
+
+  <p>
+    To mark the RSVP (Participation) and see all of the available events, visit the link: <a href="https://www.meetup.com/expats-in-oslo/events/" target="_blank">https://www.meetup.com/expats-in-oslo/events/</a>
+  </p>
 
   <p>
     <b>Our partners</b> are also hosting awesome events, please check them out:
