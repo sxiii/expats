@@ -5,6 +5,7 @@
     "home_page_url": "https://expats.top",
     "feed_url": "https://expats.top/feed.json",
     "user_comment": "",
+    "icon": "https://expats.top/media/website/Expats.jpeg",
     "author": {
         "name": "sxiii"
     },
@@ -91,7 +92,7 @@
             "tags": [
             ],
             "date_published": "2024-02-01T12:19:52+01:00",
-            "date_modified": "2024-02-06T14:48:16+01:00"
+            "date_modified": "2024-02-06T16:23:50+01:00"
         },
         {
             "id": "https://expats.top/history/",
