@@ -3,7 +3,7 @@
     <title>Expats.top</title>
     <link href="https://expats.top/feed.xml" rel="self" />
     <link href="https://expats.top" />
-    <updated>2024-02-02T15:57:44+01:00</updated>
+    <updated>2024-02-06T14:53:38+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://expats.top/author-info-and-contact/"/>
         <id>https://expats.top/author-info-and-contact/</id>
 
-        <updated>2024-02-01T14:43:31+01:00</updated>
+        <updated>2024-02-06T14:46:25+01:00</updated>
             <summary>
                 <![CDATA[
                     Hi, if you're not familiar with me my name is Den Ivanov. I am a board game geek, computer nerd,&hellip;
@@ -50,17 +50,19 @@
         <link href="https://expats.top/donations/"/>
         <id>https://expats.top/donations/</id>
 
-        <updated>2024-02-01T13:42:13+01:00</updated>
+        <updated>2024-02-06T14:49:11+01:00</updated>
             <summary>
                 <![CDATA[
-                    If you would like to support our work financially, here's how you can do that: Vipps: 98770410 or https://qr.vipps.no/28/2/01/031/4798770410?v=1 SBanken:&hellip;
+                    Financial support If you would like to support our work financially, here's how you can do that: Vipps: 98770410 or&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>If you would like to support our work financially, here's how you can do that:</p>
+                <h1>Financial support</h1>
+<p>If you would like to support our work financially, here's how you can do that:</p>
 <p>Vipps: 98770410 or <a href="https://qr.vipps.no/28/2/01/031/4798770410?v=1" target="_blank" rel="noopener noreferrer">https://qr.vipps.no/28/2/01/031/4798770410?v=1</a><br>SBanken: 98023234092<br>Revolut: <a href="https://revolut.me/sxiii" target="_blank" rel="noopener noreferrer">https://revolut.me/sxiii</a><br>Crypto donations are coming soon!</p>
 <p>If you donate money towards the board game event, please mark the transfer as "board game donation". If you can't do that, try to send money ending up with amount "1337" (example: 133.7 nok). This will allow us to buy more board games for the community.</p>
+<h1>Other ways to support (non-financial)</h1>
 <p>If you would like to support what we're doing, there's many things you can do besides sending money:</p>
 <ul>
 <li>Coming to our events and just joining the activities!</li>
@@ -80,7 +82,7 @@
         <link href="https://expats.top/gallery-2/"/>
         <id>https://expats.top/gallery-2/</id>
 
-        <updated>2024-02-01T13:10:59+01:00</updated>
+        <updated>2024-02-06T14:49:14+01:00</updated>
             <summary>
                 <![CDATA[
                     Thursday Board Games - 2024 Thursday Board Games - 2023 Thursday Board Games - 2022 Thursday Board Games - 2021
@@ -103,17 +105,17 @@
         <link href="https://expats.top/tbg/"/>
         <id>https://expats.top/tbg/</id>
 
-        <updated>2024-02-02T15:57:44+01:00</updated>
+        <updated>2024-02-06T14:53:38+01:00</updated>
             <summary>
                 <![CDATA[
-                    Location: House of Nerds (Vulkan, 18) Date: every Thursday&nbsp; Start Time: 17:30 Telegram chat invite: click Host: Den Ivanov Roll&hellip;
+                    Location: House of Nerds (Vulkan, 18) Date: every Thursday&nbsp; Start Time: 17:30 (most people come around 18:00~19:00) Telegram chat invite:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    <b>Location: </b>House of Nerds (Vulkan, 18)<br><b>Date: </b>every Thursday&nbsp;<br><b>Start Time: </b>17:30<br><b>Telegram chat invite:</b> <a href="https://t.me/+QBuGHd5g4z0yZDky">click</a><br><b>Host:</b> Den Ivanov<br>
+    <b>Location: </b>House of Nerds (Vulkan, 18)<br><b>Date: </b>every Thursday&nbsp;<br><b>Start Time: </b>17:30 (most people come around 18:00~19:00)<br><b>Telegram chat invite:</b> <a href="https://t.me/+QBuGHd5g4z0yZDky">click</a><br><b>Host:</b> <a href="https://expats.top/author-info-and-contact/">Den Ivanov</a><br><b>RSVP: </b>Via Meetup.com&nbsp;<a href="https://www.meetup.com/expats-in-oslo/" target="_blank">Expats in Oslo Group Link</a><br><b>Link note: </b>When you enter, Choose "Thursday Board Games". This is due to how Meetup works - every week its a "separate" event and so link changes.<br>
   </p>
 
   <p>
@@ -201,10 +203,10 @@
         <link href="https://expats.top/partners/"/>
         <id>https://expats.top/partners/</id>
 
-        <updated>2024-02-01T12:20:54+01:00</updated>
+        <updated>2024-02-06T14:48:16+01:00</updated>
             <summary>
                 <![CDATA[
-                    ITMeet.top - International Tech Meetups community Web3F.top - Web3, Crypto and Blockchain Events
+                    ITMeet.top - International Tech Meetups community Web3F.top - Web3, Crypto and Blockchain Events We are always open to establish more&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -215,7 +217,7 @@
   </p>
 
   <p>
-    
+    We are always open to establish more connections to valuable communities and partners. Please <a href="https://expats.top/author-info-and-contact/">contact us</a> with any requests.
   </p>
             ]]>
         </content>
